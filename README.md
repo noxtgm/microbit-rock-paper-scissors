@@ -12,7 +12,7 @@ A multiplayer rock, paper, scissors game recreated for the Microbit card. This g
 
 ## 📃 Instructions
 
-* The game will start with an animation (if it bothers you just delete everything from `Introduction animation at the beginning of the game` until the while loop)
+* The game will start with an animation (if it bothers you just delete everything from `Introduction animation at the beginning of the game` until the while loop in the game script)
 * After the animation, you will have to choose a move:
     - Press A: rock
     - Press B: paper
