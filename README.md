@@ -26,5 +26,4 @@ A multiplayer rock, paper, scissors game recreated for the Microbit card. This g
 
 ## 🔗 Contact
 
-[github-url]: https://github.com/noxtgm
-[discord-url]: https://discord.gg/ZtTE4E8E4Y
+[@NoxTGM](https://github.com/NoxTGM)
