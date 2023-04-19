@@ -24,6 +24,7 @@ A multiplayer rock, paper, scissors game recreated for the Microbit card. This g
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## 🔗 Links
+## 🔗 Contact
 
-[@NoxTGM](https://github.com/NoxTGM)
+[github-url]: https://github.com/noxtgm
+[discord-url]: https://discord.gg/ZtTE4E8E4Y
