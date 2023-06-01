@@ -17,8 +17,8 @@ A multiplayer rock, paper, scissors game recreated for the Microbit card. This g
     - Press A: rock
     - Press B: paper
     - Shake: scissors
-* P.S. I reccommend shaking the card no matter what so you don't let your opponent know your move in advance, just think about pressing the A or B button before shaking if you want to play rock or paper
 * The winner is awarded a crown and the loser an X, in case of a draw you both get a circle
+* P.S. I reccommend shaking the card no matter what so you don't let your opponent know your move in advance, just think about pressing the A or B button before shaking if you want to play rock or paper
 
 ## 🔑 License
 
