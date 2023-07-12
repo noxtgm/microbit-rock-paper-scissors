@@ -1,6 +1,6 @@
 # Microbit Rock Paper Scissors
 
-A multiplayer rock, paper, scissors game recreated for the Microbit card. This game is a `r e v o l u t i o n a r y` 2 player game. This game was made last year for a school project, it was designed to work on a Microbit card that has 2 buttons, an accelerometer, and a 9x9 LED screen.
+A multiplayer rock, paper, scissors game recreated for the Microbit card. This game is a `r e v o l u t i o n a r y` 2 player game. This game was made last year for a school project, it was designed to work on a Microbit card that has 2 buttons, an accelerometer, and a 5x5 LED screen.
 
 ## ⚙️ Installation
 
