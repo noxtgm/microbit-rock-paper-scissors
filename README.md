@@ -6,13 +6,13 @@ A multiplayer rock, paper, scissors game recreated for the Microbit card. This g
 
 * Own 2 Microbit cards
 * Paste `game.py` on your Microbit editor
-* Flash both Microbit cards at the same time
+* Flash both Microbit cards approximately at the same time
 * Wait until the yellow LEDs on both cards stop flashing
 * Follow the instructions below to play
 
 ## 📃 Instructions
 
-* The game will start with an animation (if it bothers you just delete everything from `Introduction animation at the beginning of the game` until the while loop in the game script)
+* The game will start with an animation (if it bothers you just delete everything from `Introduction animation at the beginning of the game` until the `while` loop in the `game.py` script)
 * After the animation, you will have to choose a move:
     - Press A: rock
     - Press B: paper
