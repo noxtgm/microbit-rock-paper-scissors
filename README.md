@@ -19,9 +19,9 @@ A multiplayer rock, paper, scissors game recreated for the Microbit card. This g
 
 * The game will start with an animation (if it bothers you, delete everything from `Introduction animation at the beginning of the game` until right before the `while` loop in the `game.py` script)
 * Once the animation has completed, you can choose your move:
-    - Press A: rock
-    - Press B: paper
-    - Shake: scissors
+    - Pressing A will play rock
+    - Pressing B will play paper
+    - Shaking will play scissors
 * The winner is awarded a crown and the loser an X, in case of a draw, both players get a circle
 * P.S. I reccommend shaking the card no matter what so you don't let your opponent know your next move, remember to press the A or B button before shaking (if you want to play rock or paper)
 
